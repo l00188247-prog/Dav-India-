@@ -1,0 +1,11 @@
+{
+  "name": "CamMeta",
+  "description": "GPS Map & Timestamp Camera app with live location, watermark stamping, and instant Android installation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
